@@ -1,0 +1,320 @@
+YearMonth,Year,Month_No,Category,Region_Group,Sales_Target_USD,Profit_Target_USD
+2023-01,2023,1,Apparel,Coastal,219.61,80.8
+2023-01,2023,1,Apparel,Inland,166.12,67.27
+2023-01,2023,1,Furniture,Inland,962.15,361.23
+2023-01,2023,1,Home & Kitchen,Inland,406.51,157.32
+2023-01,2023,1,Office Supplies,Inland,114.82,48.91
+2023-01,2023,1,Technology,Coastal,204.71,91.16
+2023-01,2023,1,Technology,Inland,1657.28,446.35
+2023-02,2023,2,Apparel,Inland,45.47,19.69
+2023-02,2023,2,Furniture,Coastal,201.33,48.09
+2023-02,2023,2,Furniture,Inland,1064.41,342.57
+2023-02,2023,2,Home & Kitchen,Coastal,37.39,7.53
+2023-02,2023,2,Home & Kitchen,Inland,375.62,115.71
+2023-02,2023,2,Office Supplies,Inland,101.91,41.32
+2023-02,2023,2,Technology,Coastal,1746.95,496.81
+2023-02,2023,2,Technology,Inland,96.1,32.22
+2023-03,2023,3,Apparel,Inland,49.53,33.14
+2023-03,2023,3,Furniture,Inland,749.91,252.45
+2023-03,2023,3,Home & Kitchen,Coastal,929.52,328.91
+2023-03,2023,3,Home & Kitchen,Inland,611.61,167.47
+2023-03,2023,3,Office Supplies,Coastal,14.16,6.09
+2023-03,2023,3,Office Supplies,Inland,139.93,60.73
+2023-03,2023,3,Technology,Coastal,109.99,34.37
+2023-03,2023,3,Technology,Inland,1474.17,464.66
+2023-04,2023,4,Apparel,Coastal,120.04,66.87
+2023-04,2023,4,Apparel,Inland,222.28,104.35
+2023-04,2023,4,Furniture,Inland,1038.96,349.97
+2023-04,2023,4,Home & Kitchen,Coastal,60.58,16.11
+2023-04,2023,4,Home & Kitchen,Inland,219.9,81.19
+2023-04,2023,4,Office Supplies,Coastal,100.03,41.86
+2023-04,2023,4,Office Supplies,Inland,153.82,58.4
+2023-04,2023,4,Technology,Coastal,816.15,238.23
+2023-04,2023,4,Technology,Inland,942.84,220.2
+2023-05,2023,5,Apparel,Coastal,172.91,59.99
+2023-05,2023,5,Furniture,Coastal,841.48,293.88
+2023-05,2023,5,Furniture,Inland,1456.43,344.61
+2023-05,2023,5,Home & Kitchen,Coastal,80.45,33.92
+2023-05,2023,5,Office Supplies,Coastal,227.07,74.38
+2023-05,2023,5,Office Supplies,Inland,345.83,96.88
+2023-06,2023,6,Apparel,Coastal,91.43,49.85
+2023-06,2023,6,Apparel,Inland,489.51,200.05
+2023-06,2023,6,Furniture,Coastal,963.09,276.18
+2023-06,2023,6,Furniture,Inland,332.74,124.97
+2023-06,2023,6,Home & Kitchen,Coastal,414.47,125.68
+2023-06,2023,6,Home & Kitchen,Inland,565.44,201.52
+2023-06,2023,6,Office Supplies,Coastal,892.02,285.41
+2023-06,2023,6,Office Supplies,Inland,310.4,123.67
+2023-06,2023,6,Technology,Coastal,1128.3,174.42
+2023-06,2023,6,Technology,Inland,3045.93,948.01
+2023-07,2023,7,Apparel,Coastal,386.73,192.04
+2023-07,2023,7,Apparel,Inland,281.77,122.26
+2023-07,2023,7,Furniture,Coastal,2131.13,518.61
+2023-07,2023,7,Furniture,Inland,915.65,301.25
+2023-07,2023,7,Home & Kitchen,Coastal,173.45,56.76
+2023-07,2023,7,Home & Kitchen,Inland,542.46,223.63
+2023-07,2023,7,Office Supplies,Coastal,66.46,32.65
+2023-07,2023,7,Office Supplies,Inland,347.34,130.48
+2023-07,2023,7,Technology,Coastal,2242.33,611.28
+2023-07,2023,7,Technology,Inland,1518.36,451.13
+2023-08,2023,8,Apparel,Coastal,16.34,9.67
+2023-08,2023,8,Apparel,Inland,124.49,38.16
+2023-08,2023,8,Furniture,Coastal,621.66,188.16
+2023-08,2023,8,Furniture,Inland,179.63,67.14
+2023-08,2023,8,Home & Kitchen,Coastal,375.57,72.05
+2023-08,2023,8,Home & Kitchen,Inland,627.17,199.02
+2023-08,2023,8,Office Supplies,Coastal,96.13,50.4
+2023-08,2023,8,Office Supplies,Inland,314.44,109.25
+2023-08,2023,8,Technology,Coastal,356.28,69.29
+2023-08,2023,8,Technology,Inland,909.7,319.86
+2023-09,2023,9,Apparel,Coastal,52.72,22.0
+2023-09,2023,9,Apparel,Inland,64.22,37.97
+2023-09,2023,9,Furniture,Coastal,375.98,123.52
+2023-09,2023,9,Furniture,Inland,471.46,165.46
+2023-09,2023,9,Home & Kitchen,Coastal,27.85,10.47
+2023-09,2023,9,Home & Kitchen,Inland,254.51,79.11
+2023-09,2023,9,Office Supplies,Coastal,193.76,77.33
+2023-09,2023,9,Office Supplies,Inland,687.98,224.08
+2023-09,2023,9,Technology,Coastal,70.31,28.82
+2023-09,2023,9,Technology,Inland,1601.33,494.63
+2023-10,2023,10,Apparel,Coastal,124.13,50.06
+2023-10,2023,10,Apparel,Inland,152.23,52.98
+2023-10,2023,10,Furniture,Inland,131.92,47.4
+2023-10,2023,10,Home & Kitchen,Coastal,438.79,138.41
+2023-10,2023,10,Home & Kitchen,Inland,400.53,138.98
+2023-10,2023,10,Office Supplies,Coastal,275.71,123.06
+2023-10,2023,10,Office Supplies,Inland,438.83,110.44
+2023-10,2023,10,Technology,Coastal,1200.17,281.85
+2023-10,2023,10,Technology,Inland,1177.23,390.78
+2023-11,2023,11,Apparel,Coastal,238.77,82.57
+2023-11,2023,11,Apparel,Inland,218.11,83.22
+2023-11,2023,11,Furniture,Coastal,67.98,22.72
+2023-11,2023,11,Furniture,Inland,1130.52,279.68
+2023-11,2023,11,Home & Kitchen,Coastal,799.01,250.82
+2023-11,2023,11,Home & Kitchen,Inland,778.56,239.83
+2023-11,2023,11,Office Supplies,Coastal,868.11,303.0
+2023-11,2023,11,Office Supplies,Inland,494.42,140.22
+2023-11,2023,11,Technology,Coastal,5788.48,1550.96
+2023-11,2023,11,Technology,Inland,892.62,325.81
+2023-12,2023,12,Apparel,Coastal,318.46,111.65
+2023-12,2023,12,Apparel,Inland,269.87,138.36
+2023-12,2023,12,Furniture,Coastal,525.84,169.91
+2023-12,2023,12,Furniture,Inland,2606.14,790.74
+2023-12,2023,12,Home & Kitchen,Coastal,537.37,174.64
+2023-12,2023,12,Home & Kitchen,Inland,1231.54,449.05
+2023-12,2023,12,Office Supplies,Coastal,25.36,11.84
+2023-12,2023,12,Office Supplies,Inland,201.6,94.93
+2023-12,2023,12,Technology,Coastal,289.7,118.48
+2023-12,2023,12,Technology,Inland,3739.14,1046.95
+2024-01,2024,1,Apparel,Inland,200.58,46.28
+2024-01,2024,1,Furniture,Inland,1438.91,459.28
+2024-01,2024,1,Home & Kitchen,Coastal,611.61,303.23
+2024-01,2024,1,Home & Kitchen,Inland,840.13,242.03
+2024-01,2024,1,Office Supplies,Coastal,236.91,66.55
+2024-01,2024,1,Office Supplies,Inland,706.14,236.54
+2024-01,2024,1,Technology,Coastal,793.21,124.56
+2024-01,2024,1,Technology,Inland,681.9,73.15
+2024-02,2024,2,Furniture,Coastal,507.17,169.0
+2024-02,2024,2,Furniture,Inland,1962.19,638.05
+2024-02,2024,2,Home & Kitchen,Inland,132.41,42.52
+2024-02,2024,2,Office Supplies,Inland,109.23,43.84
+2024-02,2024,2,Technology,Coastal,714.64,297.83
+2024-02,2024,2,Technology,Inland,2089.86,580.31
+2024-03,2024,3,Apparel,Coastal,146.84,70.93
+2024-03,2024,3,Furniture,Coastal,285.38,74.84
+2024-03,2024,3,Furniture,Inland,1592.07,561.03
+2024-03,2024,3,Home & Kitchen,Coastal,361.9,139.7
+2024-03,2024,3,Home & Kitchen,Inland,147.02,65.26
+2024-03,2024,3,Office Supplies,Coastal,24.56,10.12
+2024-03,2024,3,Technology,Coastal,2092.98,437.97
+2024-03,2024,3,Technology,Inland,1476.02,314.7
+2024-04,2024,4,Apparel,Coastal,290.85,97.98
+2024-04,2024,4,Apparel,Inland,35.72,21.52
+2024-04,2024,4,Furniture,Coastal,891.33,181.85
+2024-04,2024,4,Home & Kitchen,Coastal,86.09,37.69
+2024-04,2024,4,Home & Kitchen,Inland,580.26,185.82
+2024-04,2024,4,Office Supplies,Coastal,112.89,37.3
+2024-04,2024,4,Office Supplies,Inland,198.34,89.24
+2024-04,2024,4,Technology,Coastal,23.39,11.98
+2024-04,2024,4,Technology,Inland,596.83,116.95
+2024-05,2024,5,Apparel,Coastal,116.51,43.98
+2024-05,2024,5,Furniture,Inland,948.01,256.18
+2024-05,2024,5,Home & Kitchen,Coastal,456.83,156.51
+2024-05,2024,5,Home & Kitchen,Inland,94.02,39.04
+2024-05,2024,5,Office Supplies,Coastal,23.96,12.57
+2024-05,2024,5,Office Supplies,Inland,114.54,40.28
+2024-05,2024,5,Technology,Inland,852.58,245.2
+2024-06,2024,6,Apparel,Coastal,293.36,159.67
+2024-06,2024,6,Apparel,Inland,546.3,206.09
+2024-06,2024,6,Furniture,Coastal,108.41,28.66
+2024-06,2024,6,Furniture,Inland,1111.61,235.74
+2024-06,2024,6,Home & Kitchen,Coastal,107.55,35.52
+2024-06,2024,6,Home & Kitchen,Inland,42.81,16.67
+2024-06,2024,6,Office Supplies,Coastal,13.29,7.05
+2024-06,2024,6,Office Supplies,Inland,43.44,17.5
+2024-06,2024,6,Technology,Coastal,504.28,100.94
+2024-06,2024,6,Technology,Inland,97.78,38.58
+2024-07,2024,7,Apparel,Coastal,141.5,49.07
+2024-07,2024,7,Apparel,Inland,468.22,189.11
+2024-07,2024,7,Furniture,Coastal,275.44,106.28
+2024-07,2024,7,Furniture,Inland,328.61,41.81
+2024-07,2024,7,Home & Kitchen,Coastal,263.34,91.29
+2024-07,2024,7,Home & Kitchen,Inland,576.94,181.35
+2024-07,2024,7,Office Supplies,Coastal,786.12,329.09
+2024-07,2024,7,Office Supplies,Inland,364.56,114.16
+2024-07,2024,7,Technology,Coastal,1760.37,483.71
+2024-07,2024,7,Technology,Inland,3596.77,890.07
+2024-08,2024,8,Apparel,Inland,316.66,121.43
+2024-08,2024,8,Furniture,Inland,523.3,142.86
+2024-08,2024,8,Home & Kitchen,Coastal,125.48,48.71
+2024-08,2024,8,Home & Kitchen,Inland,208.74,48.33
+2024-08,2024,8,Office Supplies,Coastal,21.57,8.36
+2024-08,2024,8,Office Supplies,Inland,41.78,18.65
+2024-08,2024,8,Technology,Inland,92.9,54.88
+2024-09,2024,9,Apparel,Coastal,59.06,21.93
+2024-09,2024,9,Apparel,Inland,50.18,30.12
+2024-09,2024,9,Furniture,Inland,277.02,81.53
+2024-09,2024,9,Home & Kitchen,Inland,280.31,75.84
+2024-09,2024,9,Office Supplies,Coastal,408.02,194.12
+2024-09,2024,9,Office Supplies,Inland,56.52,21.95
+2024-09,2024,9,Technology,Coastal,479.6,216.89
+2024-09,2024,9,Technology,Inland,921.63,280.68
+2024-10,2024,10,Apparel,Coastal,159.19,84.56
+2024-10,2024,10,Furniture,Coastal,552.45,172.71
+2024-10,2024,10,Furniture,Inland,717.66,179.84
+2024-10,2024,10,Home & Kitchen,Coastal,281.14,96.04
+2024-10,2024,10,Home & Kitchen,Inland,250.06,66.81
+2024-10,2024,10,Office Supplies,Coastal,242.43,80.19
+2024-10,2024,10,Office Supplies,Inland,213.17,83.85
+2024-10,2024,10,Technology,Coastal,1337.31,441.36
+2024-10,2024,10,Technology,Inland,1098.41,401.87
+2024-11,2024,11,Apparel,Coastal,618.62,224.7
+2024-11,2024,11,Apparel,Inland,240.63,88.66
+2024-11,2024,11,Furniture,Coastal,294.96,62.74
+2024-11,2024,11,Furniture,Inland,1043.08,374.76
+2024-11,2024,11,Home & Kitchen,Coastal,647.77,235.7
+2024-11,2024,11,Home & Kitchen,Inland,1046.52,300.29
+2024-11,2024,11,Office Supplies,Coastal,70.99,31.82
+2024-11,2024,11,Office Supplies,Inland,269.55,96.96
+2024-11,2024,11,Technology,Coastal,1254.12,345.35
+2024-11,2024,11,Technology,Inland,465.6,37.76
+2024-12,2024,12,Apparel,Inland,100.89,42.45
+2024-12,2024,12,Furniture,Coastal,1262.2,378.54
+2024-12,2024,12,Furniture,Inland,263.56,66.79
+2024-12,2024,12,Home & Kitchen,Coastal,330.38,122.44
+2024-12,2024,12,Home & Kitchen,Inland,397.1,141.82
+2024-12,2024,12,Office Supplies,Coastal,683.34,227.86
+2024-12,2024,12,Office Supplies,Inland,209.88,91.6
+2024-12,2024,12,Technology,Coastal,1384.81,339.99
+2024-12,2024,12,Technology,Inland,956.05,149.24
+2025-01,2025,1,Apparel,Coastal,39.28,19.88
+2025-01,2025,1,Apparel,Inland,181.51,95.24
+2025-01,2025,1,Furniture,Inland,1506.11,286.29
+2025-01,2025,1,Home & Kitchen,Inland,248.11,85.79
+2025-01,2025,1,Office Supplies,Inland,479.47,101.25
+2025-01,2025,1,Technology,Coastal,1763.08,347.72
+2025-01,2025,1,Technology,Inland,3050.47,939.3
+2025-02,2025,2,Apparel,Coastal,23.09,10.96
+2025-02,2025,2,Apparel,Inland,30.78,16.54
+2025-02,2025,2,Furniture,Coastal,1404.85,496.19
+2025-02,2025,2,Furniture,Inland,174.45,51.52
+2025-02,2025,2,Home & Kitchen,Coastal,287.09,97.29
+2025-02,2025,2,Home & Kitchen,Inland,226.41,78.92
+2025-02,2025,2,Office Supplies,Coastal,76.65,26.21
+2025-02,2025,2,Office Supplies,Inland,28.15,14.75
+2025-02,2025,2,Technology,Coastal,124.51,33.4
+2025-02,2025,2,Technology,Inland,2166.92,816.56
+2025-03,2025,3,Apparel,Inland,14.42,8.52
+2025-03,2025,3,Furniture,Coastal,382.84,105.03
+2025-03,2025,3,Furniture,Inland,98.99,22.42
+2025-03,2025,3,Home & Kitchen,Coastal,79.74,16.96
+2025-03,2025,3,Home & Kitchen,Inland,815.21,308.04
+2025-03,2025,3,Office Supplies,Coastal,73.92,31.92
+2025-03,2025,3,Office Supplies,Inland,103.56,62.15
+2025-03,2025,3,Technology,Coastal,873.27,291.3
+2025-03,2025,3,Technology,Inland,3409.07,759.28
+2025-04,2025,4,Apparel,Coastal,46.86,16.17
+2025-04,2025,4,Furniture,Coastal,1485.71,295.09
+2025-04,2025,4,Furniture,Inland,975.71,312.77
+2025-04,2025,4,Home & Kitchen,Coastal,106.09,37.77
+2025-04,2025,4,Home & Kitchen,Inland,328.05,99.82
+2025-04,2025,4,Office Supplies,Coastal,394.04,79.81
+2025-04,2025,4,Office Supplies,Inland,676.57,256.39
+2025-04,2025,4,Technology,Coastal,732.87,210.35
+2025-05,2025,5,Apparel,Coastal,234.08,117.98
+2025-05,2025,5,Apparel,Inland,208.27,88.59
+2025-05,2025,5,Furniture,Coastal,398.27,122.62
+2025-05,2025,5,Furniture,Inland,1092.53,273.19
+2025-05,2025,5,Home & Kitchen,Coastal,328.6,89.8
+2025-05,2025,5,Home & Kitchen,Inland,1046.19,273.58
+2025-05,2025,5,Office Supplies,Coastal,32.85,12.7
+2025-05,2025,5,Office Supplies,Inland,431.75,91.87
+2025-05,2025,5,Technology,Coastal,2545.95,572.9
+2025-05,2025,5,Technology,Inland,2435.05,333.6
+2025-06,2025,6,Apparel,Coastal,662.67,292.54
+2025-06,2025,6,Apparel,Inland,148.67,65.96
+2025-06,2025,6,Furniture,Coastal,45.26,7.12
+2025-06,2025,6,Furniture,Inland,215.85,73.47
+2025-06,2025,6,Home & Kitchen,Coastal,107.46,32.9
+2025-06,2025,6,Home & Kitchen,Inland,917.29,243.77
+2025-06,2025,6,Office Supplies,Coastal,96.79,32.23
+2025-06,2025,6,Office Supplies,Inland,651.61,263.83
+2025-06,2025,6,Technology,Coastal,518.23,123.18
+2025-06,2025,6,Technology,Inland,3275.69,663.68
+2025-07,2025,7,Apparel,Coastal,53.58,19.53
+2025-07,2025,7,Apparel,Inland,154.05,61.29
+2025-07,2025,7,Furniture,Coastal,180.39,60.56
+2025-07,2025,7,Furniture,Inland,188.46,92.04
+2025-07,2025,7,Home & Kitchen,Coastal,425.59,138.5
+2025-07,2025,7,Home & Kitchen,Inland,1661.07,421.14
+2025-07,2025,7,Office Supplies,Coastal,326.13,102.7
+2025-07,2025,7,Office Supplies,Inland,653.46,163.15
+2025-07,2025,7,Technology,Coastal,3512.1,1074.06
+2025-07,2025,7,Technology,Inland,205.21,66.57
+2025-08,2025,8,Apparel,Coastal,73.89,28.97
+2025-08,2025,8,Apparel,Inland,71.81,22.9
+2025-08,2025,8,Furniture,Coastal,475.12,158.96
+2025-08,2025,8,Furniture,Inland,2438.96,643.44
+2025-08,2025,8,Home & Kitchen,Coastal,117.13,44.4
+2025-08,2025,8,Home & Kitchen,Inland,24.9,11.74
+2025-08,2025,8,Office Supplies,Coastal,142.7,52.39
+2025-08,2025,8,Office Supplies,Inland,159.58,37.56
+2025-08,2025,8,Technology,Coastal,87.74,35.24
+2025-08,2025,8,Technology,Inland,752.63,220.55
+2025-09,2025,9,Apparel,Coastal,33.44,16.74
+2025-09,2025,9,Apparel,Inland,260.47,110.04
+2025-09,2025,9,Furniture,Inland,97.12,31.47
+2025-09,2025,9,Home & Kitchen,Coastal,503.49,194.61
+2025-09,2025,9,Home & Kitchen,Inland,249.5,65.62
+2025-09,2025,9,Office Supplies,Coastal,57.72,29.91
+2025-09,2025,9,Office Supplies,Inland,100.31,54.56
+2025-09,2025,9,Technology,Coastal,94.76,29.94
+2025-09,2025,9,Technology,Inland,828.76,230.54
+2025-10,2025,10,Apparel,Inland,112.45,52.12
+2025-10,2025,10,Furniture,Inland,606.14,204.75
+2025-10,2025,10,Home & Kitchen,Coastal,294.41,103.24
+2025-10,2025,10,Home & Kitchen,Inland,137.76,43.18
+2025-10,2025,10,Office Supplies,Coastal,22.01,9.14
+2025-10,2025,10,Office Supplies,Inland,25.91,12.18
+2025-10,2025,10,Technology,Coastal,965.46,178.1
+2025-10,2025,10,Technology,Inland,2101.51,406.97
+2025-11,2025,11,Apparel,Coastal,129.07,52.03
+2025-11,2025,11,Apparel,Inland,25.23,11.59
+2025-11,2025,11,Furniture,Coastal,164.94,47.8
+2025-11,2025,11,Furniture,Inland,1451.46,502.86
+2025-11,2025,11,Home & Kitchen,Coastal,941.13,312.77
+2025-11,2025,11,Home & Kitchen,Inland,681.12,231.77
+2025-11,2025,11,Office Supplies,Coastal,90.6,24.52
+2025-11,2025,11,Office Supplies,Inland,285.69,105.88
+2025-11,2025,11,Technology,Coastal,4614.37,976.93
+2025-11,2025,11,Technology,Inland,660.73,249.02
+2025-12,2025,12,Apparel,Coastal,397.57,181.96
+2025-12,2025,12,Apparel,Inland,263.99,102.87
+2025-12,2025,12,Furniture,Coastal,581.46,196.94
+2025-12,2025,12,Furniture,Inland,840.1,207.69
+2025-12,2025,12,Home & Kitchen,Coastal,519.75,139.22
+2025-12,2025,12,Home & Kitchen,Inland,531.05,193.65
+2025-12,2025,12,Office Supplies,Coastal,649.4,228.3
+2025-12,2025,12,Office Supplies,Inland,765.81,157.21
+2025-12,2025,12,Technology,Coastal,1975.22,587.4
+2025-12,2025,12,Technology,Inland,2826.67,641.88

@@ -1,0 +1,501 @@
+Customer_ID,Customer_Name,Segment,Province,Region_Group,City,Customer_Since
+C0001,Lerato Moyo,Corporate,Gauteng,Inland,Pretoria,2024-02-17
+C0002,Lerato Maseko,Corporate,Gauteng,Inland,Johannesburg,2021-03-23
+C0003,Nokuthula Mathebula,Corporate,KwaZulu-Natal,Coastal,Pinetown,2021-03-27
+C0004,Nomsa Naidoo,Small Business,Gauteng,Inland,Pretoria,2023-11-30
+C0005,Tariro Chuma,Consumer,Gauteng,Inland,Soweto,2020-07-28
+C0006,Thabo Mabena,Consumer,Mpumalanga,Inland,Middelburg,2021-06-25
+C0007,Tendai Mokoena,Corporate,Northern Cape,Inland,Upington,2020-06-10
+C0008,Sibusiso Williams,Small Business,KwaZulu-Natal,Coastal,Umhlanga,2023-03-28
+C0009,Zanele Maseko,Consumer,Gauteng,Inland,Soweto,2020-06-12
+C0010,Nokuthula Dube,Consumer,Western Cape,Coastal,George,2020-11-29
+C0011,Blessing Mthembu,Consumer,Gauteng,Inland,Johannesburg,2023-06-01
+C0012,Sipho Sibanda,Consumer,Western Cape,Coastal,Bellville,2023-11-03
+C0013,Farai Ndlovu,Consumer,Gauteng,Inland,Soweto,2022-04-01
+C0014,Mpho Maseko,Consumer,North West,Inland,Klerksdorp,2021-10-06
+C0015,Zanele Nkosi,Consumer,North West,Inland,Mahikeng,2020-10-19
+C0016,Mpho Patel,Consumer,KwaZulu-Natal,Coastal,Umhlanga,2024-03-09
+C0017,Nandi Gumede,Small Business,Western Cape,Coastal,Bellville,2020-10-10
+C0018,Precious Nkosi,Consumer,Gauteng,Inland,Johannesburg,2020-11-09
+C0019,Sipho Gumede,Corporate,Western Cape,Coastal,Stellenbosch,2022-12-19
+C0020,Mpho Moyo,Corporate,Gauteng,Inland,Soweto,2024-04-23
+C0021,Farai Dube,Consumer,Gauteng,Inland,Johannesburg,2024-01-18
+C0022,Mpho Mathebula,Small Business,KwaZulu-Natal,Coastal,Durban,2024-11-17
+C0023,Chipo Mathebula,Corporate,Gauteng,Inland,Pretoria,2023-01-09
+C0024,Precious Moyo,Corporate,Western Cape,Coastal,Cape Town,2022-01-13
+C0025,Chipo Sibanda,Consumer,Limpopo,Inland,Polokwane,2020-06-24
+C0026,Brian Maseko,Small Business,KwaZulu-Natal,Coastal,Pietermaritzburg,2020-09-19
+C0027,Brian Khumalo,Consumer,Limpopo,Inland,Tzaneen,2021-03-09
+C0028,Sibusiso Mahlangu,Corporate,Western Cape,Coastal,George,2022-06-16
+C0029,Precious Mokoena,Consumer,Gauteng,Inland,Soweto,2020-02-13
+C0030,Nandi Sibanda,Corporate,Gauteng,Inland,Johannesburg,2021-04-13
+C0031,Thabo Ndlovu,Small Business,Gauteng,Inland,Pretoria,2021-07-24
+C0032,Brian Mahlangu,Corporate,Free State,Inland,Sasolburg,2023-03-26
+C0033,Brian Sibanda,Small Business,Mpumalanga,Inland,Mbombela,2020-07-12
+C0034,Lerato Gumede,Consumer,Western Cape,Coastal,Cape Town,2023-10-11
+C0035,Lerato Ndlovu,Consumer,Western Cape,Coastal,Cape Town,2021-05-24
+C0036,Zanele Mahlangu,Corporate,Gauteng,Inland,Pretoria,2021-07-24
+C0037,Nomsa Sibanda,Small Business,Gauteng,Inland,Johannesburg,2020-04-13
+C0038,Sibusiso Moyo,Small Business,North West,Inland,Rustenburg,2020-12-06
+C0039,Tariro Nkosi,Consumer,Limpopo,Inland,Polokwane,2020-12-03
+C0040,Kabelo Moyo,Small Business,Gauteng,Inland,Midrand,2021-08-07
+C0041,Tariro Nkosi,Consumer,Gauteng,Inland,Johannesburg,2023-04-01
+C0042,Sibusiso Ndlovu,Corporate,Gauteng,Inland,Midrand,2022-10-26
+C0043,Precious Khumalo,Consumer,KwaZulu-Natal,Coastal,Pietermaritzburg,2020-05-20
+C0044,Kudzai Maseko,Corporate,Gauteng,Inland,Johannesburg,2024-12-28
+C0045,Nandi Sibanda,Corporate,Gauteng,Inland,Johannesburg,2022-05-08
+C0046,Nandi Mathebula,Consumer,Gauteng,Inland,Soweto,2021-05-03
+C0047,Mpho Mabena,Consumer,Eastern Cape,Coastal,East London,2021-10-09
+C0048,Thabo Moyo,Consumer,Northern Cape,Inland,Kimberley,2020-05-30
+C0049,Sibusiso Mahlangu,Corporate,Gauteng,Inland,Soweto,2024-12-09
+C0050,Thabo Sibanda,Consumer,Gauteng,Inland,Soweto,2023-06-06
+C0051,Precious Moyo,Corporate,KwaZulu-Natal,Coastal,Durban,2024-12-03
+C0052,Amina Naidoo,Consumer,Gauteng,Inland,Pretoria,2021-07-11
+C0053,Chipo Mahlangu,Corporate,Gauteng,Inland,Soweto,2022-11-01
+C0054,Brian Naidoo,Small Business,Mpumalanga,Inland,Mbombela,2023-07-23
+C0055,Tariro Naidoo,Consumer,Western Cape,Coastal,Bellville,2023-07-28
+C0056,Mpho Khumalo,Corporate,KwaZulu-Natal,Coastal,Pinetown,2023-02-22
+C0057,Rumbidzai Dube,Consumer,Limpopo,Inland,Polokwane,2023-01-22
+C0058,Tendai Mthembu,Corporate,Gauteng,Inland,Pretoria,2020-03-26
+C0059,Chipo Mthembu,Small Business,Mpumalanga,Inland,Mbombela,2022-01-02
+C0060,Zanele Sibanda,Corporate,Western Cape,Coastal,Stellenbosch,2023-06-25
+C0061,Amina Sibanda,Small Business,Northern Cape,Inland,Kimberley,2024-12-10
+C0062,Tariro Moyo,Consumer,North West,Inland,Mahikeng,2024-06-30
+C0063,Nokuthula Naidoo,Consumer,Eastern Cape,Coastal,East London,2024-11-21
+C0064,Tendai Nkosi,Consumer,Mpumalanga,Inland,Emalahleni,2021-12-17
+C0065,Chipo Sibanda,Consumer,Eastern Cape,Coastal,East London,2021-11-03
+C0066,Mpho Maseko,Small Business,Gauteng,Inland,Midrand,2023-10-23
+C0067,Sibusiso Chuma,Small Business,Gauteng,Inland,Soweto,2020-12-31
+C0068,Nandi Naidoo,Consumer,KwaZulu-Natal,Coastal,Umhlanga,2024-02-01
+C0069,Farai Gumede,Corporate,KwaZulu-Natal,Coastal,Pinetown,2023-03-26
+C0070,Zanele Naidoo,Consumer,Western Cape,Coastal,Bellville,2022-01-15
+C0071,Tariro Maseko,Small Business,North West,Inland,Klerksdorp,2021-10-04
+C0072,Lerato Williams,Corporate,Eastern Cape,Coastal,East London,2022-04-04
+C0073,Chipo Patel,Consumer,Eastern Cape,Coastal,East London,2023-10-19
+C0074,Sipho Williams,Consumer,Mpumalanga,Inland,Emalahleni,2021-08-10
+C0075,Zanele Gumede,Small Business,KwaZulu-Natal,Coastal,Umhlanga,2022-08-10
+C0076,Nomsa Mokoena,Corporate,KwaZulu-Natal,Coastal,Pietermaritzburg,2023-09-11
+C0077,Thabo Williams,Corporate,KwaZulu-Natal,Coastal,Umhlanga,2020-07-10
+C0078,Nokuthula Williams,Consumer,Gauteng,Inland,Johannesburg,2020-04-04
+C0079,Nokuthula Nkosi,Corporate,Free State,Inland,Welkom,2022-04-28
+C0080,Nandi Mahlangu,Corporate,Western Cape,Coastal,Stellenbosch,2021-05-14
+C0081,Amina Moyo,Small Business,Limpopo,Inland,Polokwane,2024-05-13
+C0082,Tariro Sibanda,Consumer,North West,Inland,Klerksdorp,2022-08-09
+C0083,Tendai Sibanda,Small Business,Gauteng,Inland,Pretoria,2024-06-29
+C0084,Nomsa Mathebula,Small Business,KwaZulu-Natal,Coastal,Pinetown,2023-06-08
+C0085,Precious Gumede,Small Business,KwaZulu-Natal,Coastal,Pietermaritzburg,2024-03-03
+C0086,Brian Mokoena,Consumer,Gauteng,Inland,Soweto,2024-04-17
+C0087,Precious Nkosi,Corporate,Gauteng,Inland,Johannesburg,2024-01-01
+C0088,Chipo Sibanda,Consumer,Gauteng,Inland,Johannesburg,2020-10-10
+C0089,Amina Sibanda,Consumer,Gauteng,Inland,Pretoria,2020-05-11
+C0090,Tariro Gumede,Consumer,Western Cape,Coastal,Cape Town,2021-02-27
+C0091,Tariro Mabena,Small Business,KwaZulu-Natal,Coastal,Durban,2024-10-20
+C0092,Nandi Mabena,Consumer,North West,Inland,Mahikeng,2024-03-23
+C0093,Kabelo Gumede,Corporate,Free State,Inland,Sasolburg,2021-03-27
+C0094,Brian Sibanda,Consumer,Western Cape,Coastal,Stellenbosch,2021-11-19
+C0095,Kabelo Khumalo,Small Business,North West,Inland,Klerksdorp,2022-12-29
+C0096,Rumbidzai Mabena,Corporate,Eastern Cape,Coastal,Gqeberha,2023-08-09
+C0097,Tariro Patel,Small Business,Gauteng,Inland,Soweto,2022-02-15
+C0098,Farai Mahlangu,Consumer,Western Cape,Coastal,Stellenbosch,2021-07-23
+C0099,Tariro Naidoo,Small Business,Western Cape,Coastal,Cape Town,2021-12-17
+C0100,Nokuthula Maseko,Small Business,Eastern Cape,Coastal,Gqeberha,2021-05-21
+C0101,Zanele Moyo,Corporate,Gauteng,Inland,Midrand,2023-10-03
+C0102,Lerato Mahlangu,Consumer,Gauteng,Inland,Soweto,2020-12-09
+C0103,Kudzai Dube,Small Business,Gauteng,Inland,Soweto,2020-08-09
+C0104,Nandi Moyo,Small Business,KwaZulu-Natal,Coastal,Pinetown,2022-03-23
+C0105,Zanele Maseko,Corporate,Mpumalanga,Inland,Mbombela,2020-07-27
+C0106,Chipo Dube,Small Business,KwaZulu-Natal,Coastal,Durban,2021-12-12
+C0107,Sibusiso Gumede,Corporate,Gauteng,Inland,Soweto,2020-01-26
+C0108,Tariro Nkosi,Consumer,Northern Cape,Inland,Upington,2023-12-19
+C0109,Amina Gumede,Consumer,KwaZulu-Natal,Coastal,Umhlanga,2023-06-15
+C0110,Sibusiso Nkosi,Consumer,Mpumalanga,Inland,Middelburg,2021-07-03
+C0111,Farai Sibanda,Small Business,Gauteng,Inland,Midrand,2021-05-14
+C0112,Nomsa Mabena,Consumer,KwaZulu-Natal,Coastal,Umhlanga,2021-01-07
+C0113,Brian Mahlangu,Consumer,Gauteng,Inland,Soweto,2024-12-07
+C0114,Kudzai Naidoo,Corporate,KwaZulu-Natal,Coastal,Pietermaritzburg,2020-06-24
+C0115,Nokuthula Gumede,Consumer,Free State,Inland,Sasolburg,2022-09-02
+C0116,Brian Mokoena,Small Business,Gauteng,Inland,Pretoria,2022-04-08
+C0117,Nokuthula Williams,Corporate,Western Cape,Coastal,George,2022-05-21
+C0118,Sibusiso Chuma,Consumer,Western Cape,Coastal,George,2021-05-29
+C0119,Nokuthula Dube,Corporate,Gauteng,Inland,Pretoria,2021-01-27
+C0120,Zanele Nkosi,Consumer,KwaZulu-Natal,Coastal,Umhlanga,2020-07-24
+C0121,Zanele Williams,Consumer,Gauteng,Inland,Johannesburg,2023-12-21
+C0122,Sibusiso Patel,Consumer,Northern Cape,Inland,Upington,2023-11-29
+C0123,Amina Nkosi,Consumer,Gauteng,Inland,Soweto,2022-08-19
+C0124,Brian Mokoena,Consumer,Northern Cape,Inland,Upington,2024-10-30
+C0125,Brian Dube,Small Business,Western Cape,Coastal,Cape Town,2023-03-27
+C0126,Tendai Patel,Consumer,KwaZulu-Natal,Coastal,Umhlanga,2020-06-23
+C0127,Nokuthula Dube,Corporate,Western Cape,Coastal,Bellville,2024-05-07
+C0128,Precious Mabena,Consumer,Western Cape,Coastal,Stellenbosch,2021-09-17
+C0129,Nandi Ndlovu,Corporate,Free State,Inland,Bloemfontein,2023-07-05
+C0130,Zanele Naidoo,Corporate,Gauteng,Inland,Pretoria,2023-02-04
+C0131,Thabo Khumalo,Consumer,Western Cape,Coastal,Stellenbosch,2021-08-19
+C0132,Tendai Sibanda,Consumer,Gauteng,Inland,Midrand,2020-05-25
+C0133,Nokuthula Naidoo,Small Business,KwaZulu-Natal,Coastal,Pietermaritzburg,2022-05-20
+C0134,Lerato Sibanda,Corporate,Limpopo,Inland,Polokwane,2020-05-26
+C0135,Tendai Khumalo,Small Business,KwaZulu-Natal,Coastal,Umhlanga,2022-06-18
+C0136,Lerato Mokoena,Corporate,Eastern Cape,Coastal,East London,2022-10-21
+C0137,Sibusiso Nkosi,Consumer,KwaZulu-Natal,Coastal,Pinetown,2024-02-13
+C0138,Farai Naidoo,Consumer,Gauteng,Inland,Johannesburg,2024-04-15
+C0139,Mpho Ndlovu,Small Business,Gauteng,Inland,Midrand,2021-07-23
+C0140,Sipho Gumede,Corporate,KwaZulu-Natal,Coastal,Durban,2022-08-20
+C0141,Blessing Gumede,Consumer,Eastern Cape,Coastal,Gqeberha,2021-11-06
+C0142,Tariro Nkosi,Consumer,North West,Inland,Klerksdorp,2020-03-16
+C0143,Nomsa Maseko,Consumer,Western Cape,Coastal,Stellenbosch,2024-11-06
+C0144,Precious Moyo,Corporate,KwaZulu-Natal,Coastal,Pinetown,2020-04-21
+C0145,Zanele Mathebula,Consumer,Free State,Inland,Sasolburg,2022-06-24
+C0146,Tendai Mahlangu,Consumer,Gauteng,Inland,Soweto,2022-06-16
+C0147,Brian Dube,Consumer,KwaZulu-Natal,Coastal,Pietermaritzburg,2023-12-24
+C0148,Sipho Williams,Corporate,KwaZulu-Natal,Coastal,Durban,2021-04-05
+C0149,Lerato Mokoena,Small Business,Eastern Cape,Coastal,Gqeberha,2022-10-17
+C0150,Chipo Mathebula,Corporate,Western Cape,Coastal,Stellenbosch,2022-08-25
+C0151,Nokuthula Mokoena,Corporate,Western Cape,Coastal,Bellville,2024-11-04
+C0152,Thabo Naidoo,Small Business,Limpopo,Inland,Tzaneen,2024-06-01
+C0153,Precious Naidoo,Small Business,Gauteng,Inland,Soweto,2024-09-11
+C0154,Nandi Nkosi,Small Business,Western Cape,Coastal,Stellenbosch,2021-12-07
+C0155,Farai Mabena,Consumer,Western Cape,Coastal,Bellville,2023-11-29
+C0156,Nokuthula Mabena,Consumer,Mpumalanga,Inland,Mbombela,2021-10-13
+C0157,Brian Mabena,Consumer,Eastern Cape,Coastal,Mthatha,2020-11-07
+C0158,Brian Ndlovu,Consumer,Northern Cape,Inland,Upington,2024-11-16
+C0159,Lerato Mokoena,Consumer,North West,Inland,Rustenburg,2024-01-19
+C0160,Amina Gumede,Small Business,Northern Cape,Inland,Kimberley,2022-08-19
+C0161,Mpho Chuma,Corporate,Western Cape,Coastal,Cape Town,2024-10-10
+C0162,Farai Mabena,Small Business,KwaZulu-Natal,Coastal,Pinetown,2024-11-21
+C0163,Sibusiso Ndlovu,Corporate,Gauteng,Inland,Soweto,2021-04-10
+C0164,Thabo Gumede,Small Business,Free State,Inland,Sasolburg,2024-11-22
+C0165,Lerato Mokoena,Consumer,Gauteng,Inland,Johannesburg,2020-04-04
+C0166,Farai Ndlovu,Consumer,Western Cape,Coastal,Bellville,2021-05-15
+C0167,Precious Gumede,Corporate,Mpumalanga,Inland,Mbombela,2020-12-24
+C0168,Thabo Mabena,Corporate,Gauteng,Inland,Pretoria,2021-04-20
+C0169,Nomsa Naidoo,Consumer,Eastern Cape,Coastal,East London,2021-08-12
+C0170,Sibusiso Khumalo,Consumer,North West,Inland,Klerksdorp,2021-09-04
+C0171,Tariro Naidoo,Consumer,Gauteng,Inland,Midrand,2024-10-13
+C0172,Brian Dube,Consumer,KwaZulu-Natal,Coastal,Umhlanga,2023-12-03
+C0173,Chipo Moyo,Small Business,Eastern Cape,Coastal,East London,2020-01-17
+C0174,Nandi Ndlovu,Small Business,Free State,Inland,Welkom,2024-05-07
+C0175,Nokuthula Mthembu,Consumer,Gauteng,Inland,Soweto,2023-10-20
+C0176,Amina Dube,Small Business,Eastern Cape,Coastal,East London,2024-06-03
+C0177,Nomsa Ndlovu,Corporate,Free State,Inland,Bloemfontein,2021-08-27
+C0178,Farai Gumede,Consumer,Gauteng,Inland,Soweto,2022-12-23
+C0179,Precious Naidoo,Small Business,Gauteng,Inland,Midrand,2024-07-09
+C0180,Chipo Chuma,Small Business,Western Cape,Coastal,Cape Town,2020-10-15
+C0181,Nokuthula Mabena,Small Business,Mpumalanga,Inland,Emalahleni,2020-07-03
+C0182,Kabelo Moyo,Consumer,Gauteng,Inland,Soweto,2023-10-09
+C0183,Mpho Mabena,Small Business,North West,Inland,Rustenburg,2023-10-14
+C0184,Nokuthula Nkosi,Consumer,Limpopo,Inland,Thohoyandou,2021-11-02
+C0185,Kudzai Sibanda,Corporate,KwaZulu-Natal,Coastal,Pinetown,2023-12-06
+C0186,Chipo Gumede,Consumer,Gauteng,Inland,Johannesburg,2021-09-15
+C0187,Brian Dube,Consumer,Limpopo,Inland,Polokwane,2022-03-06
+C0188,Nomsa Mthembu,Corporate,Free State,Inland,Sasolburg,2022-05-08
+C0189,Nandi Patel,Small Business,Eastern Cape,Coastal,East London,2023-06-14
+C0190,Tariro Naidoo,Consumer,Western Cape,Coastal,Stellenbosch,2022-06-29
+C0191,Nokuthula Mthembu,Consumer,Eastern Cape,Coastal,Mthatha,2023-08-13
+C0192,Blessing Ndlovu,Consumer,Gauteng,Inland,Johannesburg,2024-10-02
+C0193,Nomsa Maseko,Corporate,Eastern Cape,Coastal,Mthatha,2020-02-13
+C0194,Tendai Chuma,Consumer,Gauteng,Inland,Pretoria,2020-05-20
+C0195,Sibusiso Mahlangu,Corporate,Mpumalanga,Inland,Mbombela,2021-11-03
+C0196,Amina Moyo,Consumer,Northern Cape,Inland,Kimberley,2023-01-11
+C0197,Mpho Khumalo,Consumer,Limpopo,Inland,Polokwane,2020-01-31
+C0198,Blessing Sibanda,Corporate,Gauteng,Inland,Soweto,2020-04-17
+C0199,Amina Gumede,Corporate,Free State,Inland,Welkom,2022-07-07
+C0200,Blessing Mathebula,Corporate,Western Cape,Coastal,Bellville,2023-06-13
+C0201,Tendai Mathebula,Consumer,Eastern Cape,Coastal,Gqeberha,2020-05-04
+C0202,Brian Mabena,Consumer,Gauteng,Inland,Midrand,2020-05-30
+C0203,Thabo Chuma,Corporate,Gauteng,Inland,Soweto,2023-07-02
+C0204,Nandi Chuma,Consumer,KwaZulu-Natal,Coastal,Umhlanga,2022-07-18
+C0205,Precious Gumede,Consumer,Eastern Cape,Coastal,Mthatha,2023-08-26
+C0206,Sibusiso Mahlangu,Consumer,Limpopo,Inland,Tzaneen,2021-11-25
+C0207,Nomsa Mabena,Consumer,Gauteng,Inland,Midrand,2021-10-02
+C0208,Mpho Mthembu,Small Business,Eastern Cape,Coastal,East London,2020-05-17
+C0209,Thabo Maseko,Consumer,Gauteng,Inland,Soweto,2024-07-20
+C0210,Amina Ndlovu,Corporate,KwaZulu-Natal,Coastal,Umhlanga,2023-10-04
+C0211,Lerato Gumede,Consumer,Eastern Cape,Coastal,East London,2024-11-12
+C0212,Tendai Williams,Corporate,Western Cape,Coastal,Bellville,2020-11-12
+C0213,Brian Sibanda,Small Business,Western Cape,Coastal,George,2020-08-23
+C0214,Mpho Sibanda,Small Business,Mpumalanga,Inland,Middelburg,2023-06-10
+C0215,Sibusiso Moyo,Corporate,Eastern Cape,Coastal,Mthatha,2021-07-01
+C0216,Rumbidzai Khumalo,Consumer,Free State,Inland,Welkom,2021-12-19
+C0217,Rumbidzai Khumalo,Small Business,KwaZulu-Natal,Coastal,Pinetown,2020-05-22
+C0218,Amina Moyo,Consumer,KwaZulu-Natal,Coastal,Pinetown,2022-05-09
+C0219,Nomsa Chuma,Consumer,Gauteng,Inland,Soweto,2024-05-09
+C0220,Nandi Maseko,Small Business,Gauteng,Inland,Johannesburg,2023-10-12
+C0221,Thabo Naidoo,Consumer,Western Cape,Coastal,Stellenbosch,2022-04-28
+C0222,Mpho Mahlangu,Small Business,Gauteng,Inland,Midrand,2020-08-15
+C0223,Chipo Nkosi,Corporate,Gauteng,Inland,Pretoria,2022-03-20
+C0224,Kudzai Ndlovu,Consumer,Gauteng,Inland,Pretoria,2024-04-20
+C0225,Amina Naidoo,Consumer,Gauteng,Inland,Midrand,2024-03-09
+C0226,Tariro Khumalo,Consumer,KwaZulu-Natal,Coastal,Pietermaritzburg,2022-10-21
+C0227,Sibusiso Mthembu,Consumer,Limpopo,Inland,Polokwane,2022-06-12
+C0228,Rumbidzai Mokoena,Small Business,Limpopo,Inland,Thohoyandou,2022-05-29
+C0229,Nandi Mabena,Corporate,Western Cape,Coastal,Cape Town,2022-04-09
+C0230,Rumbidzai Chuma,Consumer,North West,Inland,Mahikeng,2024-08-30
+C0231,Blessing Maseko,Consumer,Gauteng,Inland,Midrand,2023-04-21
+C0232,Kabelo Mathebula,Consumer,Limpopo,Inland,Thohoyandou,2021-11-26
+C0233,Nokuthula Chuma,Small Business,Gauteng,Inland,Johannesburg,2022-12-22
+C0234,Precious Mahlangu,Small Business,Western Cape,Coastal,Bellville,2021-04-28
+C0235,Lerato Patel,Consumer,Gauteng,Inland,Pretoria,2024-04-05
+C0236,Thabo Khumalo,Small Business,KwaZulu-Natal,Coastal,Pinetown,2024-03-25
+C0237,Nandi Mokoena,Corporate,Limpopo,Inland,Thohoyandou,2023-07-25
+C0238,Kudzai Chuma,Small Business,KwaZulu-Natal,Coastal,Pietermaritzburg,2022-06-19
+C0239,Thabo Nkosi,Consumer,Gauteng,Inland,Soweto,2023-04-26
+C0240,Tendai Mthembu,Corporate,Gauteng,Inland,Midrand,2020-03-18
+C0241,Tendai Mthembu,Small Business,Gauteng,Inland,Johannesburg,2023-06-13
+C0242,Kudzai Mathebula,Consumer,KwaZulu-Natal,Coastal,Durban,2022-07-10
+C0243,Nandi Mahlangu,Consumer,Western Cape,Coastal,Bellville,2020-05-06
+C0244,Nomsa Dube,Small Business,Mpumalanga,Inland,Middelburg,2020-06-21
+C0245,Precious Khumalo,Consumer,Eastern Cape,Coastal,East London,2022-12-09
+C0246,Precious Khumalo,Consumer,North West,Inland,Mahikeng,2022-04-17
+C0247,Farai Ndlovu,Small Business,Eastern Cape,Coastal,Gqeberha,2021-11-06
+C0248,Lerato Mabena,Consumer,Free State,Inland,Sasolburg,2023-05-19
+C0249,Amina Chuma,Consumer,Eastern Cape,Coastal,East London,2021-09-27
+C0250,Kabelo Patel,Corporate,North West,Inland,Mahikeng,2023-02-18
+C0251,Kabelo Chuma,Small Business,Eastern Cape,Coastal,Mthatha,2023-11-04
+C0252,Precious Maseko,Corporate,Western Cape,Coastal,George,2020-02-07
+C0253,Blessing Williams,Consumer,Gauteng,Inland,Midrand,2021-01-28
+C0254,Nokuthula Patel,Consumer,Gauteng,Inland,Johannesburg,2022-11-05
+C0255,Sibusiso Mathebula,Consumer,Western Cape,Coastal,Bellville,2023-05-08
+C0256,Kabelo Patel,Consumer,Mpumalanga,Inland,Middelburg,2024-07-14
+C0257,Sipho Mokoena,Consumer,Western Cape,Coastal,Bellville,2022-06-28
+C0258,Kudzai Williams,Small Business,Mpumalanga,Inland,Mbombela,2022-12-29
+C0259,Nokuthula Williams,Small Business,Mpumalanga,Inland,Mbombela,2022-01-23
+C0260,Nandi Mokoena,Consumer,Gauteng,Inland,Midrand,2022-10-26
+C0261,Precious Gumede,Small Business,Mpumalanga,Inland,Middelburg,2020-10-10
+C0262,Mpho Ndlovu,Corporate,Limpopo,Inland,Thohoyandou,2020-07-29
+C0263,Precious Dube,Consumer,Free State,Inland,Welkom,2022-07-09
+C0264,Precious Patel,Small Business,Gauteng,Inland,Pretoria,2024-07-30
+C0265,Nomsa Mthembu,Small Business,Western Cape,Coastal,Stellenbosch,2022-10-25
+C0266,Blessing Sibanda,Consumer,Gauteng,Inland,Pretoria,2020-02-27
+C0267,Farai Dube,Small Business,Eastern Cape,Coastal,Gqeberha,2020-10-08
+C0268,Tendai Williams,Small Business,Western Cape,Coastal,Bellville,2024-04-03
+C0269,Brian Mokoena,Corporate,Limpopo,Inland,Polokwane,2021-06-08
+C0270,Zanele Patel,Corporate,Free State,Inland,Sasolburg,2022-05-16
+C0271,Lerato Williams,Consumer,Gauteng,Inland,Pretoria,2022-05-09
+C0272,Kudzai Mokoena,Consumer,Mpumalanga,Inland,Emalahleni,2023-05-07
+C0273,Sibusiso Moyo,Corporate,KwaZulu-Natal,Coastal,Pietermaritzburg,2021-08-19
+C0274,Tariro Moyo,Corporate,Gauteng,Inland,Midrand,2021-01-18
+C0275,Thabo Mathebula,Small Business,Gauteng,Inland,Johannesburg,2022-03-10
+C0276,Brian Ndlovu,Corporate,Northern Cape,Inland,Upington,2024-03-10
+C0277,Rumbidzai Mthembu,Small Business,Western Cape,Coastal,Cape Town,2024-04-29
+C0278,Nandi Chuma,Consumer,Western Cape,Coastal,George,2024-07-24
+C0279,Sipho Mokoena,Small Business,Western Cape,Coastal,Bellville,2024-07-19
+C0280,Amina Maseko,Corporate,North West,Inland,Rustenburg,2021-08-23
+C0281,Zanele Ndlovu,Small Business,Limpopo,Inland,Tzaneen,2021-09-27
+C0282,Precious Mabena,Small Business,KwaZulu-Natal,Coastal,Umhlanga,2020-03-15
+C0283,Zanele Williams,Consumer,Mpumalanga,Inland,Middelburg,2021-11-10
+C0284,Mpho Dube,Small Business,Western Cape,Coastal,Stellenbosch,2024-03-02
+C0285,Nomsa Mabena,Consumer,Gauteng,Inland,Midrand,2022-01-22
+C0286,Precious Naidoo,Small Business,Free State,Inland,Bloemfontein,2022-05-31
+C0287,Kudzai Khumalo,Corporate,Western Cape,Coastal,Cape Town,2021-11-02
+C0288,Chipo Williams,Consumer,Free State,Inland,Bloemfontein,2023-11-13
+C0289,Nomsa Mthembu,Consumer,Free State,Inland,Welkom,2023-06-13
+C0290,Tariro Naidoo,Corporate,Mpumalanga,Inland,Mbombela,2020-06-02
+C0291,Kabelo Mthembu,Corporate,Free State,Inland,Bloemfontein,2020-03-04
+C0292,Amina Mokoena,Consumer,Gauteng,Inland,Soweto,2022-01-11
+C0293,Kabelo Ndlovu,Corporate,Eastern Cape,Coastal,East London,2022-01-31
+C0294,Nomsa Maseko,Corporate,KwaZulu-Natal,Coastal,Pinetown,2021-10-05
+C0295,Mpho Sibanda,Small Business,Gauteng,Inland,Pretoria,2022-10-19
+C0296,Precious Mabena,Small Business,Gauteng,Inland,Soweto,2023-12-12
+C0297,Nomsa Mahlangu,Small Business,Gauteng,Inland,Midrand,2021-02-13
+C0298,Lerato Patel,Small Business,Western Cape,Coastal,Stellenbosch,2020-06-28
+C0299,Farai Mthembu,Corporate,KwaZulu-Natal,Coastal,Umhlanga,2024-12-30
+C0300,Chipo Khumalo,Corporate,North West,Inland,Klerksdorp,2020-12-22
+C0301,Blessing Mathebula,Consumer,Northern Cape,Inland,Kimberley,2021-04-29
+C0302,Brian Moyo,Consumer,KwaZulu-Natal,Coastal,Pinetown,2024-07-03
+C0303,Sibusiso Patel,Corporate,Gauteng,Inland,Soweto,2022-03-26
+C0304,Brian Mathebula,Consumer,Western Cape,Coastal,Cape Town,2020-09-13
+C0305,Farai Maseko,Consumer,Eastern Cape,Coastal,East London,2020-09-19
+C0306,Sibusiso Khumalo,Small Business,Gauteng,Inland,Johannesburg,2024-08-29
+C0307,Lerato Mathebula,Consumer,Gauteng,Inland,Soweto,2023-12-23
+C0308,Nokuthula Mthembu,Small Business,KwaZulu-Natal,Coastal,Umhlanga,2024-09-28
+C0309,Thabo Naidoo,Consumer,North West,Inland,Mahikeng,2020-09-13
+C0310,Chipo Maseko,Corporate,Gauteng,Inland,Pretoria,2020-12-16
+C0311,Kudzai Chuma,Small Business,KwaZulu-Natal,Coastal,Durban,2020-06-15
+C0312,Tendai Naidoo,Corporate,Free State,Inland,Welkom,2023-06-19
+C0313,Rumbidzai Nkosi,Small Business,KwaZulu-Natal,Coastal,Umhlanga,2022-09-16
+C0314,Nokuthula Mabena,Consumer,Gauteng,Inland,Johannesburg,2020-11-19
+C0315,Nomsa Gumede,Consumer,Gauteng,Inland,Pretoria,2021-10-02
+C0316,Farai Mthembu,Small Business,Gauteng,Inland,Soweto,2022-11-20
+C0317,Sibusiso Dube,Consumer,Western Cape,Coastal,George,2022-07-09
+C0318,Nokuthula Patel,Consumer,Gauteng,Inland,Midrand,2024-11-04
+C0319,Kudzai Gumede,Consumer,Limpopo,Inland,Polokwane,2024-07-24
+C0320,Farai Chuma,Consumer,Gauteng,Inland,Midrand,2022-10-18
+C0321,Chipo Nkosi,Consumer,North West,Inland,Klerksdorp,2022-07-25
+C0322,Nokuthula Mahlangu,Corporate,Gauteng,Inland,Soweto,2022-10-10
+C0323,Kudzai Nkosi,Consumer,Gauteng,Inland,Johannesburg,2022-06-01
+C0324,Amina Naidoo,Corporate,Free State,Inland,Welkom,2020-04-02
+C0325,Kabelo Ndlovu,Corporate,Gauteng,Inland,Soweto,2020-05-30
+C0326,Kabelo Mathebula,Consumer,KwaZulu-Natal,Coastal,Durban,2020-09-20
+C0327,Lerato Mabena,Consumer,Northern Cape,Inland,Upington,2024-03-26
+C0328,Amina Mahlangu,Corporate,Western Cape,Coastal,Cape Town,2020-04-02
+C0329,Tendai Patel,Corporate,Mpumalanga,Inland,Middelburg,2022-07-24
+C0330,Amina Mathebula,Consumer,North West,Inland,Mahikeng,2020-11-28
+C0331,Kabelo Williams,Corporate,KwaZulu-Natal,Coastal,Pinetown,2023-12-22
+C0332,Nandi Williams,Consumer,Gauteng,Inland,Soweto,2023-10-11
+C0333,Lerato Gumede,Corporate,Mpumalanga,Inland,Middelburg,2024-11-21
+C0334,Rumbidzai Nkosi,Consumer,Eastern Cape,Coastal,Mthatha,2023-03-28
+C0335,Nokuthula Ndlovu,Corporate,Gauteng,Inland,Midrand,2020-10-29
+C0336,Nokuthula Ndlovu,Corporate,Eastern Cape,Coastal,Gqeberha,2020-02-08
+C0337,Nomsa Chuma,Consumer,Western Cape,Coastal,Bellville,2022-04-20
+C0338,Precious Nkosi,Small Business,Free State,Inland,Bloemfontein,2023-12-16
+C0339,Amina Mathebula,Consumer,Western Cape,Coastal,Stellenbosch,2022-12-12
+C0340,Kabelo Chuma,Small Business,Western Cape,Coastal,George,2023-01-23
+C0341,Blessing Naidoo,Corporate,Gauteng,Inland,Pretoria,2021-07-25
+C0342,Sibusiso Williams,Consumer,Northern Cape,Inland,Upington,2024-04-28
+C0343,Chipo Mahlangu,Corporate,Western Cape,Coastal,Stellenbosch,2021-12-15
+C0344,Sibusiso Naidoo,Consumer,KwaZulu-Natal,Coastal,Pinetown,2022-03-19
+C0345,Blessing Patel,Consumer,Gauteng,Inland,Johannesburg,2021-12-10
+C0346,Nomsa Naidoo,Corporate,Gauteng,Inland,Soweto,2023-02-25
+C0347,Mpho Patel,Consumer,Free State,Inland,Bloemfontein,2021-05-11
+C0348,Tendai Mathebula,Consumer,Gauteng,Inland,Johannesburg,2022-04-26
+C0349,Farai Nkosi,Consumer,Mpumalanga,Inland,Mbombela,2023-02-01
+C0350,Sipho Gumede,Corporate,Limpopo,Inland,Tzaneen,2022-09-04
+C0351,Zanele Williams,Consumer,Eastern Cape,Coastal,Gqeberha,2023-08-28
+C0352,Nandi Sibanda,Corporate,Free State,Inland,Bloemfontein,2020-12-24
+C0353,Tariro Khumalo,Small Business,Gauteng,Inland,Midrand,2024-06-01
+C0354,Brian Khumalo,Small Business,Northern Cape,Inland,Upington,2024-11-30
+C0355,Tendai Moyo,Consumer,KwaZulu-Natal,Coastal,Umhlanga,2021-08-05
+C0356,Nomsa Mathebula,Consumer,North West,Inland,Klerksdorp,2022-08-16
+C0357,Mpho Mahlangu,Small Business,Western Cape,Coastal,Stellenbosch,2023-08-20
+C0358,Mpho Khumalo,Consumer,Western Cape,Coastal,George,2023-03-08
+C0359,Zanele Khumalo,Corporate,KwaZulu-Natal,Coastal,Pinetown,2024-08-20
+C0360,Tariro Mathebula,Consumer,Western Cape,Coastal,Cape Town,2021-01-13
+C0361,Amina Nkosi,Consumer,Gauteng,Inland,Soweto,2022-02-24
+C0362,Nokuthula Mokoena,Small Business,North West,Inland,Mahikeng,2023-04-07
+C0363,Nandi Moyo,Consumer,Western Cape,Coastal,Bellville,2020-05-07
+C0364,Lerato Mokoena,Consumer,Western Cape,Coastal,George,2023-11-14
+C0365,Lerato Williams,Consumer,Gauteng,Inland,Pretoria,2022-09-06
+C0366,Amina Mokoena,Corporate,KwaZulu-Natal,Coastal,Pinetown,2023-12-08
+C0367,Sibusiso Nkosi,Small Business,Mpumalanga,Inland,Mbombela,2024-04-09
+C0368,Nokuthula Maseko,Corporate,KwaZulu-Natal,Coastal,Umhlanga,2020-06-08
+C0369,Nandi Dube,Consumer,KwaZulu-Natal,Coastal,Pietermaritzburg,2023-03-18
+C0370,Sibusiso Patel,Consumer,Limpopo,Inland,Tzaneen,2020-08-26
+C0371,Zanele Nkosi,Consumer,KwaZulu-Natal,Coastal,Durban,2022-07-17
+C0372,Amina Mathebula,Consumer,KwaZulu-Natal,Coastal,Pinetown,2023-10-09
+C0373,Chipo Moyo,Consumer,Mpumalanga,Inland,Middelburg,2021-03-22
+C0374,Nandi Maseko,Consumer,Western Cape,Coastal,Cape Town,2023-01-13
+C0375,Tendai Maseko,Small Business,Western Cape,Coastal,George,2022-04-17
+C0376,Sipho Patel,Small Business,Northern Cape,Inland,Upington,2022-02-05
+C0377,Kabelo Mokoena,Small Business,Limpopo,Inland,Tzaneen,2020-06-13
+C0378,Sibusiso Patel,Corporate,Western Cape,Coastal,Bellville,2023-01-05
+C0379,Kabelo Mathebula,Consumer,Northern Cape,Inland,Kimberley,2024-03-28
+C0380,Rumbidzai Williams,Consumer,Free State,Inland,Welkom,2022-12-25
+C0381,Kabelo Sibanda,Consumer,Western Cape,Coastal,George,2021-01-21
+C0382,Lerato Ndlovu,Small Business,Western Cape,Coastal,Cape Town,2021-05-07
+C0383,Zanele Maseko,Consumer,Gauteng,Inland,Johannesburg,2021-05-16
+C0384,Tendai Mabena,Consumer,KwaZulu-Natal,Coastal,Durban,2020-10-13
+C0385,Precious Williams,Consumer,North West,Inland,Klerksdorp,2021-10-15
+C0386,Nandi Chuma,Consumer,Limpopo,Inland,Thohoyandou,2022-12-03
+C0387,Nokuthula Gumede,Consumer,Gauteng,Inland,Pretoria,2023-07-06
+C0388,Tariro Nkosi,Consumer,Western Cape,Coastal,Stellenbosch,2024-05-28
+C0389,Precious Chuma,Corporate,Western Cape,Coastal,George,2022-02-09
+C0390,Sipho Nkosi,Consumer,Gauteng,Inland,Pretoria,2024-07-08
+C0391,Nomsa Ndlovu,Corporate,Northern Cape,Inland,Kimberley,2022-03-06
+C0392,Nokuthula Naidoo,Consumer,Eastern Cape,Coastal,East London,2024-09-30
+C0393,Blessing Maseko,Corporate,Mpumalanga,Inland,Mbombela,2021-07-03
+C0394,Kabelo Ndlovu,Small Business,Gauteng,Inland,Pretoria,2022-09-08
+C0395,Zanele Chuma,Consumer,Limpopo,Inland,Polokwane,2021-01-24
+C0396,Lerato Nkosi,Small Business,Eastern Cape,Coastal,Mthatha,2021-02-22
+C0397,Kabelo Sibanda,Corporate,Mpumalanga,Inland,Emalahleni,2022-08-12
+C0398,Sibusiso Mthembu,Consumer,Western Cape,Coastal,Stellenbosch,2022-08-12
+C0399,Lerato Nkosi,Small Business,Western Cape,Coastal,Bellville,2022-01-29
+C0400,Farai Gumede,Consumer,Limpopo,Inland,Thohoyandou,2020-10-25
+C0401,Rumbidzai Naidoo,Corporate,KwaZulu-Natal,Coastal,Pinetown,2021-08-27
+C0402,Amina Mahlangu,Consumer,Western Cape,Coastal,Bellville,2022-10-19
+C0403,Sibusiso Chuma,Consumer,Mpumalanga,Inland,Middelburg,2023-08-07
+C0404,Brian Mokoena,Consumer,Mpumalanga,Inland,Mbombela,2020-10-13
+C0405,Sibusiso Nkosi,Consumer,Limpopo,Inland,Thohoyandou,2020-04-30
+C0406,Precious Ndlovu,Small Business,Gauteng,Inland,Johannesburg,2024-04-14
+C0407,Rumbidzai Gumede,Consumer,KwaZulu-Natal,Coastal,Durban,2023-12-19
+C0408,Amina Moyo,Consumer,Western Cape,Coastal,Cape Town,2023-06-19
+C0409,Kudzai Nkosi,Corporate,Gauteng,Inland,Midrand,2020-01-25
+C0410,Rumbidzai Mathebula,Corporate,KwaZulu-Natal,Coastal,Umhlanga,2020-02-05
+C0411,Precious Gumede,Small Business,Limpopo,Inland,Polokwane,2020-07-16
+C0412,Precious Patel,Consumer,KwaZulu-Natal,Coastal,Umhlanga,2024-07-27
+C0413,Blessing Naidoo,Small Business,Gauteng,Inland,Midrand,2022-07-29
+C0414,Nandi Sibanda,Small Business,Gauteng,Inland,Johannesburg,2023-08-31
+C0415,Tendai Maseko,Consumer,Western Cape,Coastal,Stellenbosch,2020-04-24
+C0416,Rumbidzai Khumalo,Consumer,Mpumalanga,Inland,Middelburg,2024-05-25
+C0417,Farai Dube,Small Business,North West,Inland,Rustenburg,2021-03-08
+C0418,Nandi Nkosi,Consumer,North West,Inland,Klerksdorp,2021-07-28
+C0419,Sibusiso Ndlovu,Consumer,Limpopo,Inland,Polokwane,2021-02-28
+C0420,Nandi Patel,Small Business,Free State,Inland,Welkom,2020-06-06
+C0421,Chipo Khumalo,Corporate,KwaZulu-Natal,Coastal,Pinetown,2023-10-18
+C0422,Sibusiso Chuma,Consumer,Free State,Inland,Sasolburg,2024-01-23
+C0423,Thabo Mathebula,Corporate,Western Cape,Coastal,Cape Town,2022-06-14
+C0424,Nokuthula Maseko,Consumer,Free State,Inland,Sasolburg,2022-03-23
+C0425,Farai Moyo,Corporate,Mpumalanga,Inland,Emalahleni,2022-10-01
+C0426,Nokuthula Mthembu,Corporate,Western Cape,Coastal,Bellville,2023-10-24
+C0427,Nandi Mabena,Consumer,KwaZulu-Natal,Coastal,Pietermaritzburg,2023-12-31
+C0428,Thabo Maseko,Consumer,Western Cape,Coastal,Bellville,2024-02-23
+C0429,Kabelo Chuma,Consumer,Gauteng,Inland,Soweto,2022-06-29
+C0430,Blessing Naidoo,Consumer,Gauteng,Inland,Midrand,2022-07-08
+C0431,Sibusiso Mathebula,Consumer,Gauteng,Inland,Soweto,2023-02-09
+C0432,Thabo Chuma,Small Business,Gauteng,Inland,Midrand,2022-03-05
+C0433,Thabo Sibanda,Corporate,Gauteng,Inland,Midrand,2020-12-13
+C0434,Amina Naidoo,Consumer,KwaZulu-Natal,Coastal,Durban,2020-12-08
+C0435,Tariro Naidoo,Consumer,Western Cape,Coastal,Cape Town,2022-01-09
+C0436,Mpho Sibanda,Corporate,KwaZulu-Natal,Coastal,Pietermaritzburg,2022-07-26
+C0437,Lerato Patel,Consumer,North West,Inland,Mahikeng,2024-09-19
+C0438,Kudzai Mabena,Small Business,Western Cape,Coastal,George,2022-05-31
+C0439,Kudzai Patel,Consumer,KwaZulu-Natal,Coastal,Pietermaritzburg,2022-09-08
+C0440,Farai Khumalo,Small Business,Northern Cape,Inland,Upington,2024-02-14
+C0441,Brian Sibanda,Consumer,Gauteng,Inland,Midrand,2022-01-17
+C0442,Lerato Mahlangu,Corporate,KwaZulu-Natal,Coastal,Durban,2024-01-29
+C0443,Nomsa Mahlangu,Consumer,Gauteng,Inland,Johannesburg,2024-08-04
+C0444,Tariro Nkosi,Consumer,Gauteng,Inland,Soweto,2023-09-10
+C0445,Amina Gumede,Small Business,Gauteng,Inland,Midrand,2023-04-07
+C0446,Kabelo Mathebula,Small Business,Limpopo,Inland,Tzaneen,2023-01-18
+C0447,Tendai Mthembu,Corporate,Mpumalanga,Inland,Middelburg,2023-07-30
+C0448,Thabo Dube,Small Business,Eastern Cape,Coastal,East London,2020-12-06
+C0449,Kudzai Ndlovu,Corporate,Eastern Cape,Coastal,Mthatha,2022-03-29
+C0450,Farai Gumede,Consumer,Gauteng,Inland,Pretoria,2022-11-11
+C0451,Precious Sibanda,Consumer,Western Cape,Coastal,Bellville,2021-12-07
+C0452,Rumbidzai Nkosi,Consumer,Western Cape,Coastal,Cape Town,2020-08-25
+C0453,Amina Mthembu,Consumer,Western Cape,Coastal,Bellville,2022-12-03
+C0454,Brian Mthembu,Consumer,Western Cape,Coastal,Stellenbosch,2021-10-15
+C0455,Thabo Williams,Consumer,Free State,Inland,Bloemfontein,2024-10-05
+C0456,Farai Dube,Corporate,Gauteng,Inland,Pretoria,2022-11-22
+C0457,Sipho Khumalo,Consumer,Western Cape,Coastal,Stellenbosch,2021-04-19
+C0458,Kabelo Khumalo,Consumer,Eastern Cape,Coastal,East London,2020-02-29
+C0459,Kudzai Mahlangu,Consumer,Western Cape,Coastal,Cape Town,2023-12-14
+C0460,Zanele Mahlangu,Consumer,Eastern Cape,Coastal,Gqeberha,2023-03-28
+C0461,Lerato Khumalo,Consumer,Gauteng,Inland,Johannesburg,2021-06-21
+C0462,Brian Mathebula,Small Business,Gauteng,Inland,Midrand,2023-06-05
+C0463,Kabelo Dube,Consumer,Mpumalanga,Inland,Middelburg,2020-12-19
+C0464,Chipo Maseko,Corporate,Gauteng,Inland,Pretoria,2021-09-17
+C0465,Lerato Khumalo,Consumer,Gauteng,Inland,Midrand,2022-05-06
+C0466,Kudzai Patel,Corporate,Western Cape,Coastal,Stellenbosch,2023-07-25
+C0467,Sibusiso Khumalo,Corporate,Western Cape,Coastal,Bellville,2021-01-18
+C0468,Farai Mokoena,Corporate,Limpopo,Inland,Polokwane,2022-09-19
+C0469,Amina Mahlangu,Small Business,Northern Cape,Inland,Upington,2022-04-17
+C0470,Brian Gumede,Corporate,Western Cape,Coastal,Bellville,2020-06-18
+C0471,Nandi Moyo,Small Business,Gauteng,Inland,Johannesburg,2021-07-16
+C0472,Nokuthula Williams,Consumer,Western Cape,Coastal,Stellenbosch,2023-01-30
+C0473,Precious Dube,Corporate,Gauteng,Inland,Soweto,2023-01-15
+C0474,Tendai Mokoena,Corporate,Northern Cape,Inland,Kimberley,2024-02-16
+C0475,Nokuthula Williams,Small Business,Gauteng,Inland,Soweto,2021-12-14
+C0476,Thabo Mokoena,Small Business,Gauteng,Inland,Pretoria,2021-03-05
+C0477,Nandi Mthembu,Small Business,KwaZulu-Natal,Coastal,Pinetown,2020-12-05
+C0478,Kudzai Patel,Small Business,Mpumalanga,Inland,Mbombela,2023-03-13
+C0479,Blessing Naidoo,Corporate,Gauteng,Inland,Soweto,2021-08-15
+C0480,Nandi Naidoo,Small Business,KwaZulu-Natal,Coastal,Durban,2020-10-04
+C0481,Tariro Ndlovu,Small Business,Limpopo,Inland,Polokwane,2023-12-07
+C0482,Amina Sibanda,Consumer,Western Cape,Coastal,Bellville,2024-04-08
+C0483,Kabelo Nkosi,Consumer,KwaZulu-Natal,Coastal,Pinetown,2022-02-07
+C0484,Nomsa Maseko,Corporate,Limpopo,Inland,Polokwane,2022-04-05
+C0485,Precious Naidoo,Corporate,Limpopo,Inland,Tzaneen,2022-09-26
+C0486,Farai Moyo,Small Business,Mpumalanga,Inland,Mbombela,2024-02-05
+C0487,Nomsa Mthembu,Small Business,Mpumalanga,Inland,Emalahleni,2021-03-22
+C0488,Tariro Mahlangu,Consumer,Western Cape,Coastal,George,2021-11-22
+C0489,Sibusiso Patel,Corporate,Western Cape,Coastal,George,2023-10-29
+C0490,Tendai Ndlovu,Consumer,Mpumalanga,Inland,Emalahleni,2020-02-03
+C0491,Lerato Khumalo,Consumer,Gauteng,Inland,Midrand,2021-02-18
+C0492,Amina Williams,Consumer,North West,Inland,Mahikeng,2020-07-10
+C0493,Blessing Naidoo,Consumer,Eastern Cape,Coastal,Mthatha,2020-12-04
+C0494,Tendai Mabena,Corporate,Free State,Inland,Bloemfontein,2022-05-29
+C0495,Thabo Dube,Consumer,Western Cape,Coastal,Bellville,2023-04-30
+C0496,Nokuthula Mathebula,Corporate,Gauteng,Inland,Soweto,2024-07-31
+C0497,Lerato Gumede,Corporate,Western Cape,Coastal,Bellville,2022-02-23
+C0498,Thabo Dube,Consumer,Western Cape,Coastal,George,2020-10-07
+C0499,Kabelo Patel,Corporate,Eastern Cape,Coastal,Gqeberha,2022-12-22
+C0500,Nandi Moyo,Corporate,Gauteng,Inland,Soweto,2024-01-19

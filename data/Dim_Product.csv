@@ -1,0 +1,36 @@
+Product_ID,Product_Name,Category,Subcategory,Base_Unit_Price_USD,Unit_Cost_USD,Launch_Year,Supplier
+P1001,Laptop Pro 14,Technology,Laptops,679,469.0,2022,PrimeSource
+P1002,Laptop Lite 13,Technology,Laptops,489,352.0,2021,Apex Supply Co
+P1003,Business Laptop 15,Technology,Laptops,599,419.0,2022,PrimeSource
+P1004,Chromebook Edu,Technology,Laptops,299,224.0,2021,MetroTrade
+P1005,Wireless Mouse,Technology,Accessories,10,5.0,2020,Apex Supply Co
+P1006,Keyboard Combo,Technology,Accessories,24,13.0,2020,MetroTrade
+P1007,USB-C Dock,Technology,Accessories,85,54.0,2023,PrimeSource
+P1008,External SSD 1TB,Technology,Storage,75,48.0,2022,TechDirect
+P1009,HDMI Cable,Technology,Accessories,6,3.0,2019,TechDirect
+P1010,A4 Copy Paper Box,Office Supplies,Paper & Stationery,25,15.0,2019,OfficeHub
+P1011,Premium Notebook,Office Supplies,Paper & Stationery,5,2.5,2019,OfficeHub
+P1012,Ballpoint Pen Pack,Office Supplies,Paper & Stationery,4,2.0,2019,OfficeHub
+P1013,Printer Toner Black,Office Supplies,Printing,65,44.0,2020,PrintWell
+P1014,Ink Cartridge Colour,Office Supplies,Printing,30,19.0,2020,PrintWell
+P1015,Desk Organiser,Office Supplies,Desk Accessories,13,7.0,2021,OfficeHub
+P1016,Stapler Heavy Duty,Office Supplies,Desk Accessories,9,4.5,2019,OfficeHub
+P1017,Lever Arch File Pack,Office Supplies,Filing,8,4.0,2019,PaperPro
+P1018,Whiteboard Marker Set,Office Supplies,Presentation,8,4.0,2020,PaperPro
+P1019,Ergonomic Chair,Furniture,Chairs,145,95.0,2021,FurniCo
+P1020,Office Desk 1200mm,Furniture,Desks,189,129.0,2020,FurniCo
+P1021,Boardroom Table,Furniture,Tables,459,318.0,2022,FurniCo
+P1022,Filing Cabinet 4 Drawer,Furniture,Storage,109,69.0,2020,SteelWorks
+P1023,Bookshelf 5 Tier,Furniture,Storage,85,54.0,2021,SteelWorks
+P1024,Reception Chair,Furniture,Chairs,58,36.0,2019,FurniCo
+P1025,Microwave 30L,Home & Kitchen,Appliances,95,64.0,2020,HomeMart
+P1026,Kettle Stainless Steel,Home & Kitchen,Small Appliances,24,14.0,2019,HomeMart
+P1027,Toaster 4 Slice,Home & Kitchen,Small Appliances,38,23.0,2020,HomeMart
+P1028,Air Fryer 5L,Home & Kitchen,Appliances,109,73.0,2022,KitchenLine
+P1029,Cookware Set,Home & Kitchen,Cookware,79,50.0,2021,KitchenLine
+P1030,Dinner Set 16 Piece,Home & Kitchen,Dining,42,24.0,2019,KitchenLine
+P1031,Corporate Shirt,Apparel,Workwear,16,7.0,2019,StyleWorks
+P1032,Safety Shoes,Apparel,Footwear,45,27.0,2020,SafeStep
+P1033,Reflective Jacket,Apparel,Workwear,20,11.0,2020,SafeStep
+P1034,Laptop Backpack,Apparel,Bags,30,17.0,2021,StyleWorks
+P1035,Rain Jacket,Apparel,Outerwear,36,20.0,2020,StyleWorks

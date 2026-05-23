@@ -1,0 +1,21 @@
+-- Project 2: Retail Sales Performance Analysis DAX Measures
+Total Sales = SUM(Fact_Sales[Net_Sales])
+Total Profit = SUM(Fact_Sales[Profit])
+Total Cost = SUM(Fact_Sales[Total_Cost])
+Total Quantity = SUM(Fact_Sales[Quantity])
+Total Orders = DISTINCTCOUNT(Fact_Sales[Order_ID])
+Total Customers = DISTINCTCOUNT(Fact_Sales[Customer_ID])
+Average Order Value = DIVIDE([Total Sales], [Total Orders], 0)
+Profit Margin = DIVIDE([Total Profit], [Total Sales], 0)
+Return Lines = CALCULATE(COUNTROWS(Fact_Sales), Fact_Sales[Return_Status] = "Returned")
+Return Rate = DIVIDE([Return Lines], COUNTROWS(Fact_Sales), 0)
+Total Discount = SUM(Fact_Sales[Discount_Amount])
+Discount Rate = DIVIDE([Total Discount], SUM(Fact_Sales[Gross_Sales]), 0)
+Sales Target = SUM(Sales_Targets[Sales_Target])
+Profit Target = SUM(Sales_Targets[Profit_Target])
+Sales Variance = [Total Sales] - [Sales Target]
+Sales Variance % = DIVIDE([Sales Variance], [Sales Target], 0)
+Profit Variance = [Total Profit] - [Profit Target]
+Profit Variance % = DIVIDE([Profit Variance], [Profit Target], 0)
+Sales LY = CALCULATE([Total Sales], SAMEPERIODLASTYEAR(Dim_Date[Date]))
+Sales YoY Growth % = DIVIDE([Total Sales] - [Sales LY], [Sales LY], 0)

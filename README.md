@@ -54,23 +54,23 @@ The Power BI dashboard contains five pages:
 
 ### 1. Executive Overview
 
-![Executive Overview](screenshots/01_Executive_Overview.png)
+![Executive Overview](sales%20screenshots/Executive_Overview.png)
 
 ### 2. Sales Trend
 
-![Sales Trend](screenshots/02_Sales_Trend.png)
+![Sales Trend](sales%20screenshots/Sales_Trend_Analysis.png)
 
 ### 3. Product and Category Analysis
 
-![Product and Category Analysis](screenshots/03_Product_Category_Analysis.png)
+![Product and Category Analysis](sales%20screenshots/Product_and_Category_Analysis.png)
 
 ### 4. Customer and Region Insights
 
-![Customer and Region Insights](screenshots/04_Customer_Region_Insights.png)
+![Customer and Region Insights](sales%20screenshots/Customer_and_Region_Insights.png)
 
 ### 5. Insights and Recommendations
 
-![Insights and Recommendations](screenshots/05_Insights_Recommendations.png)
+![Insights and Recommendations](sales%20screenshots/Insights_and_Recommendations.png)
 
 ## Key Metrics
 
@@ -114,7 +114,7 @@ Strong product and regional performance can support better stock planning, sales
 - `excel/` — Excel workbook
 - `sql/` — SQL Server / T-SQL analysis script
 - `powerbi/` — Power BI file and DAX measures
-- `screenshots/` — dashboard screenshots
+- `sales screenshots/` — dashboard screenshots
 - `case-study/` — full project case study
 - `docs/` — dashboard build guide
 - `scripts/` — Python script used to generate the synthetic dataset
